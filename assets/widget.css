@@ -1,0 +1,34 @@
+.sitelift-reviews-widget {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.sitelift-reviews-widget h3 {
+    font-size: 1.2em;
+    margin-bottom: 10px;
+}
+
+.sitelift-reviews-widget ul {
+    list-style: none;
+    padding: 0;
+}
+
+.sitelift-reviews-widget li {
+    margin-bottom: 15px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #eee;
+}
+
+.sitelift-reviews-widget .author {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.sitelift-reviews-widget .rating {
+    margin-bottom: 5px;
+}
+
+.sitelift-reviews-widget .text {
+    font-style: italic;
+}
